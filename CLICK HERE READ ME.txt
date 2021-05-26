@@ -1,0 +1,19 @@
+this is a weather app (not finished) it uses a free API  this is my first project with public API
+
+so this is an API practic so dont expect anything fancy
+
+
+das ist enie wetter App (flexing some of my german)
+
+
+to use :
+
+
+
+*1 go to command prompt and write
+
+cd (the path you put the folder in) for example cd desktop/Todolist
+
+*2 write nodemon app.js (if you have node.js)
+
+*3 go to chrome and write localhost:3000
